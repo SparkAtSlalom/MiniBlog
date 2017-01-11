@@ -11,8 +11,8 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A sample project</description>
     <releaseNotes>This release contains the following changes...</releaseNotes>
-    <files>
-      <file src="..\bin\*.*" target="lib\net40\" />
-    </files>
   </metadata>
+  <files>
+    <file src="..\bin\*.*" target="lib\net40\" />
+  </files>
 </package>
